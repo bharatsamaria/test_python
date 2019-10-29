@@ -1,6 +1,3 @@
 numpy
 pillow
-gdcm
-jpeg_ls
-jpeg2000
 pydicom
